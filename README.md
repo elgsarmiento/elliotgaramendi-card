@@ -1,7 +1,7 @@
 # [elliotgaramendi-card](https://github.com/elgsarmiento/elliotgaramendi-card) 
 
 ## 📜 Resumen 📜
-Hola soy Elliot Garamendi, soy desarrollador web frontend con la biblioteca React, docente de especialización en desarrollo web frontend. Apasionado del autoaprendizaje y del código limpio.
+Hola soy Elliot Garamendi. Soy desarrollador web frontend con la biblioteca React, docente de especialización en desarrollo web frontend. Apasionado del autoaprendizaje y del código limpio.
 
 ![Elliot Garamendi](https://i.postimg.cc/MpK0Zjyx/elliot-garamendi-hero.webp)
 
